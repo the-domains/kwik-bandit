@@ -1,0 +1,28 @@
+name: Kwik Bandit
+favicon: null
+layout_spectrum: 0.7334596603177488
+typography_spectrum: 0.7494320482946932
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.3591979555785656
+  lightness: 0.7224448705092072
+  saturation: 0.2942796724382788
+  rhythmicContrast: 0.3194346586242318
+purpose: []
