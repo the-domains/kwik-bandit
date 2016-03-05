@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Kwik Bandit]]></title>
         <description><![CDATA[Kwik Bandit]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/kwik-bandit/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 05 Mar 2016 18:24:05 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 05 Mar 2016 18:25:43 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/kwik-bandit/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://kwikbandit.com/images/Bannersample3.jpg">]]></description>
+            <link>https://thegrid.ai/kwik-bandit/7cf4138b-9e5f-49be-91f0-8b1c0df3ec7a/index.html</link>
+            <guid isPermaLink="false">7cf4138b-9e5f-49be-91f0-8b1c0df3ec7a</guid>
+            <pubDate>Sat, 05 Mar 2016 18:25:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://kwikbandit.com/images/Bannersample4.jpg">]]></description>
-            <link>undefined29f5ef42-5496-4d1f-be10-9241b9df18d7/index.html</link>
+            <link>https://thegrid.ai/kwik-bandit/29f5ef42-5496-4d1f-be10-9241b9df18d7/index.html</link>
             <guid isPermaLink="false">29f5ef42-5496-4d1f-be10-9241b9df18d7</guid>
             <pubDate>Sat, 05 Mar 2016 18:23:35 GMT</pubDate>
         </item>
