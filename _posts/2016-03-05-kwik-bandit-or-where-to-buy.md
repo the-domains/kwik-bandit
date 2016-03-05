@@ -22,8 +22,8 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://kwikbandit.com/where.html'
 title: 'Kwik Bandit | Where to Buy'
-datePublished: '2016-03-05T18:52:23.584Z'
-dateModified: '2016-03-05T18:39:42.788Z'
+datePublished: '2016-03-05T19:04:33.018Z'
+dateModified: '2016-03-05T18:40:32.684Z'
 sourcePath: _posts/2016-03-05-kwik-bandit-or-where-to-buy.md
 published: true
 inFeed: true
